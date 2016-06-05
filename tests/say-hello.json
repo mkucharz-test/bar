@@ -2,18 +2,9 @@
   "machine": "say-hello",
   "expectations": [
     {
-      "todo": true,
-      "using": {},
-      "outcome": "success"
-    }
-  ]
-}
-{
-  "machine": "say-hello",
-  "expectations": [
-    {
-      "todo": true,
-      "using": {},
+      "using": {
+        "name": "John"
+      },
       "outcome": "success"
     }
   ]
