@@ -8,3 +8,13 @@
     }
   ]
 }
+{
+  "machine": "say-hello",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {},
+      "outcome": "success"
+    }
+  ]
+}
